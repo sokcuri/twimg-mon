@@ -46,19 +46,4 @@ npm start
 * Payload: GET 메소드로 보내고 페이로드까지 받은 시간을 측정
 
 ## License
-* [node-evil-dns](https://github.com/JamesHight/node-evil-dns)
-```
-Copyright 2013 James Hight
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
+Apache License 2.0
